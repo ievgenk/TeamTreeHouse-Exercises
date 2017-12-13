@@ -1,0 +1,41 @@
+/* Base element styles  */  
+
+body {
+        line-height: 1.6;
+    color: #3a3a3a; }
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+ul, li {
+    list-style: none;
+    text-decoration-style: none;
+}
+
+/*Base Layout Styles  */
+
+.main-header {
+    background: #3acec2;
+    padding: 1em 0;
+}
+
+.main-footer {
+    padding: 2em 0;
+    background: #d9e4ea;
+}
+.wraper {
+    width: 75%;
+    margin: 0 auto;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+/* Nav  */
+
+.name {
+    margin: 0;
+}
